@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 var fs = require('fs');
 var argv = require('minimist')(process.argv.slice(2), {boolean: ['l', 'c', 'j']});
 var LogReader = require('./lib/apm-reader.js');
