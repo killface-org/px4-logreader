@@ -11,6 +11,9 @@
         "type": "git",
         "url": "git://github.com/killface-org/px4-logreader.git"
     },
+    "bugs": {
+        "url": "https://github.com/killface-org/px4-logreader.git"
+    },
     "homepage": "https://github.com/killface-org/px4-logreader",
     "keywords": [
         "PixHawk",
