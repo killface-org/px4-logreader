@@ -1,0 +1,28 @@
+{
+    "name": "px4-logreader",
+    "version": "0.0.1",
+    "description": "parse binary log files from the PX4(Pixhawk) auto pilot",
+    "main": "./lib/apm-reader.js",
+    "bin": {
+        "px4-logreader": "./px4-logreader.js"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/killface-org/px4-logreader.git"
+    },
+    "homepage": "https://github.com/killface-org/px4-logreader",
+    "keywords": [
+        "PixHawk",
+        "PX4",
+        "ArduPilot",
+        "Drone"
+    ],
+    "author": {
+        "name": "Brian Hodgen"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "minimist": "^0.1.0"
+    }
+}
