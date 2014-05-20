@@ -1,10 +1,10 @@
 {
     "name": "px4-logreader",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "parse binary log files from the PX4(Pixhawk) auto pilot",
     "main": "./lib/apm-reader.js",
     "bin": {
-        "px4-logreader": "px4-logreader.js"
+        "px4-logreader": "px4-logread.js"
     },
     "devDependencies": {},
     "repository": {
